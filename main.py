@@ -4,6 +4,7 @@
 from ecosystem import Ecosystem
 from organism import Prey, Predator
 
+url = "https://github.com/larinan13/life_simulator"
 def main():
     # Создаём экосистему
     eco = Ecosystem(name="Лес")
